@@ -1,8 +1,8 @@
 ### Hi there - I'm a passionate Full Stack Developer / Consultant @Objektkultur
 
-:high_brightness: During the day i mostly use the power of Azure to satisfy customer needs
+:high_brightness: During the day I mostly use the power of Azure to satisfy customer needs
 
-:full_moon_with_face: By night i jump over to Firebase to kickstart some of my private projects. Those are, whenever possible written in TypeScript and make use of serverless computing
+:full_moon_with_face: By night I jump over to Firebase to kickstart some of my private projects. Those are, whenever possible written in TypeScript and make use of serverless computing
 
 :school: I also teach software development @Hochschule Karlsruhe, to show off some of the cool stuff one can do with the right tools at their hands
 
