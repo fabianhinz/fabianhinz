@@ -7,8 +7,8 @@
 :school: I also teach software development @Hochschule Karlsruhe, to show off some of the cool stuff one can do with the right tools at their hands
 
 :rocket: Some of my most recent projects, which are solely hosted on Firebase, are
-- *in development* learn2Code@HsKA: A learning platform for students - by students
-- [A COVID-19 dashboard](https://rkicasesapi.web.app/): tracks the spread of the disease in germany on a state and county level ([repo](https://github.com/fabianhinz/rkicasesdashboard))
+- [learn2Code@HsKA](https://learn2code-hska.web.app/): A learning platform for students - by students ([repo](https://github.com/fabianhinz/learnToCode))
+- [COVID-19 dashboard](https://rkicasesapi.web.app/): tracks the spread of the disease in germany on a state and county level ([repo](https://github.com/fabianhinz/rkicasesdashboard))
 - [Recipe Handler 4.0](https://recipehandler.web.app/): A Progressive Web App to collect, categorise and share recipes ([repo](https://github.com/fabianhinz/RecipeHandler-4.0))
 
 #### :mailbox_with_no_mail: If you want to get in touch you can reach me via
