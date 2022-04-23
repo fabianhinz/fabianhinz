@@ -1,6 +1,6 @@
-### Hi there - I'm a passionate Full Stack Developer / Consultant @Objektkultur
+### Hi there - I'm a passionate Fullstack Engineer [@understand.ai](https://understand.ai/)
 
-:high_brightness: During the day I mostly use the power of Azure to satisfy customer needs
+:high_brightness: During the day I mostly use the Google Cloud Platform
 
 :full_moon_with_face: By night I jump over to Firebase to kickstart some of my private projects. Those are, whenever possible written in TypeScript and make use of serverless computing
 
