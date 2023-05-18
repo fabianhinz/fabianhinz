@@ -1,4 +1,4 @@
-### Hi there - I'm a passionate Fullstack Engineer [@understand.ai](https://understand.ai/)
+### Hi there - I'm a passionate Fullstack Engineer
 
 :high_brightness: During the day I mostly use the Google Cloud Platform
 
